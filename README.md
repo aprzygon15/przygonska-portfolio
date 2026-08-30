@@ -7,29 +7,81 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I’m Amanda Przygonska (she/her), a second-year MAM student focused on educational theater. Originally from Chicago and frequently based in Atlanta, I love creating spaces where kids can set down their screens, step into their confidence, and discover who they are through the performing arts. Beyond the classroom, my mission is to break down barriers so that communities who traditionally cannot afford theater still get to experience its magic.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+- Learning how to turn metrics into compelling visual arguments that resonate with donors, board members, and community partners in my near future.
+- I want to expand my visual library far beyond basic graphs and charts. Learning when and how to use different data visual formats will allow me to communicate complex theater and community metrics in more engaging, intuitive ways.
+- Excel charts haven't always been my strong suit, so I am looking forward to exploring alternative digital tools and software. I want to build practical technical skills that make creating clean, professional visuals feel seamless and intuitive.
 
 # Portfolio
 
+### **Week one**
+
+In-class sketching exercise.- We were asked to hand draw a way to represent data, a story, or a routine. I drew a tree with different colored branches representing different parts of my summer. 
+
+Controlling Color - week one sketching exercise (due 11:59 p.m., Mon 08/31)
+
+Data visualization critique #1 (due 11:59 p.m., Mon 08/31)
+
+In-class critique: Data viz critique #1 (due end of class, Tue 09/01)
+
+Personal portfolio (due 11:59 p.m., Mon 09/01)
+ 
+
+### **Week two**
+
+Data visualization #1 (due 11:59 p.m., Mon 09/07)
+
+Crafting for Clarity- week two sketching exercise (due 11:59 p.m., Mon 09/07)
+
+
+### **Week three**
+
+In-class critique: Critique by Design (due end of class, Tue 09/15)
+
+Assignment 3&4: Critique by Design (due 11:59 p.m., Thu 09/17)*
+
+
+### **Week four**
+
+Choosing Chart Types - week four sketching exercise (due 11:59 p.m., Wed 09/23)
+
+Final Project, part one (due 11:59 p.m., Wed 09/23)
+
+Final Project, part one avoiding plagiarism quiz (due 11:59 p.m., Wed 09/23)
+
+In-class critique: part one (Tue 09/22) 
+
+
+### **Week five**
+
+Practicing Persuasion - week five sketching exercise (due 11:59 p.m., Wed 09/30)
+
+In-class challenge exercise (Tue 09/29, end of class)
+
+In-class critique: part two (Tue 09/29, end of class)
+
+Final Project, part two (due 11:59 p.m., Wed 09/30)*
+
+
+### **Week six**
+
+Final Project, part three (due 11:59 p.m., Fri 10/09)
+
+Cleaning up your online portfolio (due 11:59 p.m., Fri 10/09)
+
+
+### **Week seven**
+
+Final In-class challenge exercise.   
+** Final presentations will be held the last week, on Tuesday 10/06 and Thursday 10/08 during class. **
+
+
 # Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+Not quite there yet, but I will be soon!
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
@@ -44,17 +96,10 @@ Here it might be helpful to include a high-level description of your final proje
 Part III(final-project-part-three)
 
 ---
-## Other stuff you can do (you can remove this section - it's just for your reference.)
 
-### Changing text
-
-You can change text, like this: 
-
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
 
 ### Creating tables
 
-You can build tables like this: 
 
 | Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
 |--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
@@ -64,12 +109,6 @@ You can build tables like this:
 
 An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
 
-You can use different headings, like this: 
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
 
 ### Adding images
 
