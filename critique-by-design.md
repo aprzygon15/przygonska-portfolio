@@ -7,7 +7,7 @@ When I started browsing MakeoverMonday for a dataset to analyze, I knew I wanted
 ## Step one: the visualization
 
 The original visualization was published by the Kaiser Family Foundation (KFF) as part of their public health awareness series on antibiotic resistance.
-- Source: Kff Data Note: Public Awareness Around Antibiotic Resistance
+- Source: KFF Data Note: Public Awareness Around Antibiotic Resistance
 - Website url: https://www.kff.org/other-health/data-note-public-awareness-antibiotic-resistance/
 
 
