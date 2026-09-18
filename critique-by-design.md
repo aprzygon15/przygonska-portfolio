@@ -114,5 +114,5 @@ Martin, F. &. (2015, April 3). Design and Redesign. Medium. https://medium.com/@
 
 
 ## AI acknowledgements
-_If you used AI to help troubleshoot why the clickable links to my pages were not working properly. 
+I Googled help troubleshoot why the clickable links to my pages were not working properly, which is technically the AI tool called Gemini. 
 
