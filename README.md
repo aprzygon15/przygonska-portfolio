@@ -36,9 +36,8 @@ Crafting for Clarity- week two sketching exercise
 
 ### **Week three**
 
-In-class critique: Critique by Design (due end of class, Tue 09/15)
-
-Assignment 3&4: Critique by Design (due 11:59 p.m., Thu 09/17)*
+In-class critique: Critique by Design 
+See the Rethinking Health Literacy Tab Story under Critique by Design page
 
 
 ### **Week four**
