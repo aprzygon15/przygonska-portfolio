@@ -7,13 +7,14 @@ When I started browsing MakeoverMonday for a dataset to analyze, I knew I wanted
 ## Step one: the visualization
 
 The original visualization was published by the Kaiser Family Foundation (KFF) as part of their public health awareness series on antibiotic resistance.
+
+<img width="605" height="425" alt="KFF Figure 6 " src="https://github.com/user-attachments/assets/c29f3897-53f9-40fa-bd23-7b22b35373a0" />" 
 - Source: KFF Data Note: Public Awareness Around Antibiotic Resistance
 - Website url: https://www.kff.org/other-health/data-note-public-awareness-antibiotic-resistance/
-<img width="605" height="425" alt="KFF Figure 6 " src="https://github.com/user-attachments/assets/c29f3897-53f9-40fa-bd23-7b22b35373a0" />" 
 
 ## Step two: The critique
 Step Two: The Critique
-To evaluate Figure 6 thoroughly, I applied a comprehensive data visualization critique framework grounded in design principles from Stephen Few's Data Visualization Effectiveness Profile (a resource Storytelling with Data). I analyzed the original chart across five core dimensions: audience context, visual encoding, color semantics, typography, and data selection.
+To evaluate Figure 6, I applied a comprehensive data visualization critique framework grounded in design principles from Stephen Few's Data Visualization Effectiveness Profile (a resource Storytelling with Data). I analyzed the original chart across five core dimensions: audience context, visual encoding, color semantics, typography, and data selection.
 
 | Design Dimension | Score | Evaluation & Observations |
 | :--- | :---: | :--- |
@@ -25,13 +26,13 @@ To evaluate Figure 6 thoroughly, I applied a comprehensive data visualization cr
 | **Aesthetics** | **3 / 10** | Blue palette makes distinguishing right from wrong confusing and relies heavily on the legend. |
 | **Intuitiveness** | **2 / 10** | Readers miss the core takeaway unless they read the chart line by line |
 
-The data itself was accurate and valuable, but the stacked layout and brand-heavy formatting was hiding the key insights from anyone reading the chart out of context.
+The data itself was accurate and valuable, but the layout and brand-heavy coloring was hiding the key insights from anyone reading the chart out of context.
 
-As someone who is frequently around healthcare professionals, the dataset itself caught my attention right away. The title at the top was clear, and the graphic had a neutral, almost boring tone you expect from an organization presenting objective facts. However, while I was able to read the graph, it required me to stop and really LOOK at it to make sense of what it was saying. I understand why the author used blue, it aligns with their company branding, but using two different shades of blue for the right and wrong answers was deeply confusing. It forced me to constantly check back and forth with the color key.
+As someone who is frequently around healthcare professionals, the dataset itself caught my attention right away. The title at the top was clear, and the graphic had a boring tone you expect from an organization presenting objective facts. However, while I was able to read the graph, it required me to stop and really LOOK at it to make sense of what it was saying. I understand why the author used blue, it aligns with their company branding, but using two different shades of blue for the right and wrong answers was deeply confusing. It forced me to constantly check back and forth with the color key.
 
-The primary audience for this graphic seems to be public health advocates, healthcare professionals, and policymakers. In its current form, I would kind of be helpful for that group. A busy professional or policymaker wouldn't be able to grasp the core takeaways in a matter of seconds, meaning many people will completely miss the story the visual is trying to tell. The chart should be highlighting that higher education and income levels directly correlate with knowing how antibiotics work, but instead, you are forced to read through the chart line by line just to reach that conclusion.
+The primary audience for this graphic seems to be public health advocates, healthcare professionals, and policymakers. In its current form, I would kind of be helpful for that group. A busy professional or policymaker wouldn't be able to grasp the core takeaways in a matter of seconds, meaning manny people will completely miss the story the visual is trying to tell. The chart should be highlighting that higher education and income levels directly relates with knowing how antibiotics work, but instead, you are forced to read through the chart line by line just to reach that conclusion.
 
-Moving into my redesign, I want to strip out the extra noise and focus directly on what drives health literacy! I moved on to watching Andy Kriebel's video using the same data. I found it interesting that the color scheme didn't bother him. I really liked the dual axis dot plot he created in the video, but it felt like it was not representative of the data. The circles don't "take up room" like a bar would to be more comparable. 
+Moving into my redesign, I want to strip out the extra noise and focus directly on what drives health literacy! I moved on to watching Andy Kriebel's video using the same data. I found it interesting that the color scheme didn't seem to be much of a problem. I really liked the dual axis dot plot he created in the video, but after looking at it for a long time, it felt like it was not representative of the data. The circles don't "take up room" like a bar would to be more comparable in size. 
 
 ## Step three: Sketch a solution
 
