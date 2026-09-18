@@ -78,7 +78,27 @@ The first question about redundancy showed me something that I didn't see, so I 
 
 ## Step five: Build the Solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+Before committing to the final small-multiples bar chart, I wanted to test all feedback from my critique session. One group member had recommended redoing the entire visualization into pie charts. I experimented with a pie chart layout in Tableau, but I quickly realized it made comparative analysis much worse. Comparing angles and slices across eight different demographic groups and three response categories created extreme visual clutter. It confirmed my intuition that horizontal bar charts anchored to a shared baseline were the best choice for fast, accurate reading.
+
+- Layout: I reorganized the demographic categories to place Education at the very top, directly supporting my headline hook ("Health Literacy Rates Double through the American Education System"). Viewers can immediately see the green bar jump from 26% (High school diploma or less) up to 65% (At least a college degree).
+
+- Intuitive Color Semantics & Column Flow:
+  -Green ("No, cannot be cured" (correct)): Positioned in the first column to immediately reward the eye with correct health literacy rates.
+  -Gray ("Don't know enough to say"): Positioned in the middle panel to de-emphasize passive uncertainty without distracting from the main story.
+-  Red ("Yes, can usually be cured"): Positioned in the final panel to isolate active misinformation.
+
+-Proportional Context: I locked every paneled horizontal axis to a fixed 0%–100% range with explicit 25% tick marks. This ensures that a 26% bar in one row represents the exact visual proportion out of 100% as a 26% bar in another row.
+
+- Percentage: Every bar features bold percentage text positioned right at the bar end, eliminating the need to trace gridlines down to an axis.
+
+- Citation: I added a clear citation footer at the bottom linking directly back to KFF’s original 2019 study.
+
+Overall, I am thrilled with how much cleaner, clearer, and more narrative-driven this final visualization turned out compared to the original KFF Figure 6. It tells a story in seconds without requiring the reader to dive into a dense article.
+
+The one detail I wish I could change is the display of the main category headers (Education, Income, Gender). I wanted these labels to sit horizontally above their subcategories as section title rows rather than being rotated vertically on the far-left pane. I spent a lot of time tweaking Tableau settings trying to force horizontal title placement within a single paneled sheet, but Tableau’s default axis formatting made that layout difficult to execute.
+
+Despite that minor formatting hiccup, moving away from stacked bars and blue branding completely transformed the graphic. The final design makes this a more accessible public health story.
+
 
 ## References
 _List any references you used here._
