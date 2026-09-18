@@ -59,36 +59,24 @@ Ultimately, I walked into class with a draft I wasn't 100% in love with, but I k
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+-"Is there anything that is too redundant in my graph?"
+Peer 1: Felt that including the Age category was redundant and could be removed.
+Peer 2: Agreed that Age was redundant and didn't add much value to the story.
+Peer 3: Thought Age was interesting and suggested it didn't hurt to keeping it in.
 
-Questions to ask (modify these for your own interviews): 
+- "What should the order of the colors/columns be?"
+Peer 1: Recommended ordering from Green (Correct) $\rightarrow$ Gray (Uncertain) $\rightarrow$ Red (Incorrect).
+Peer 2: Agreed that Green should come first, followed by Gray, then Red.
+Peer 3: Initially leaned toward putting Red first, but eventually agreed that leading with Green created a better flow.
 
-- Can you tell me what you think this is?
+- "Is the title too poignant or overly focused on just one category?"
+Peer 1: Loved the title, calling it catchy, and suggested moving Education to the top of the chart to align with it.
+Peer 2: Agreed the title worked really well, and noted that the data labels should show percentage signs (%).
+Peer 3: Thought the title was strong and that the overall draft was in great shape.
 
-- Can you describe to me what this is telling you?
+The first question about redundancy showed me something that I didn't see, so I had to go back and re-evaluate if age was something that was actually necessary in showing this graph. Between deciding to drop Age, needing to reorder the categories to match my title, and wanting  percentage signs on my bar labels, Datawrapper's limitations became overwhelming. Hearing this feedback put the nail in the coffin *wop wop wooOOoop* that I needed to give up on Datawrapper and move on to Tableau. 
 
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
-
-## Step five: build the solution
+## Step five: Build the Solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
