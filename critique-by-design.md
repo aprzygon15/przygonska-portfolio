@@ -31,7 +31,7 @@ As someone who is frequently around healthcare professionals, the dataset itself
 
 The primary audience for this graphic seems to be public health advocates, healthcare professionals, and policymakers. In its current form, I would kind of be helpful for that group. A busy professional or policymaker wouldn't be able to grasp the core takeaways in a matter of seconds, meaning many people will completely miss the story the visual is trying to tell. The chart should be highlighting that higher education and income levels directly correlate with knowing how antibiotics work, but instead, you are forced to read through the chart line by line just to reach that conclusion.
 
-Moving into my redesign, I want to strip out the extra noise and focus directly on what drives health literacy!
+Moving into my redesign, I want to strip out the extra noise and focus directly on what drives health literacy! I moved on to watching Andy Kriebel's video using the same data. I found it interesting that the color scheme didn't bother him. I really liked the dual axis dot plot he created in the video, but it felt like it was not representative of the data. The circles don't "take up room" like a bar would to be more comparable. 
 
 ## Step three: Sketch a solution
 
@@ -59,7 +59,7 @@ Ultimately, I walked into class with a draft I wasn't 100% in love with, but I k
 
 ## Step four: Test the solution
 
--"Is there anything that is too redundant in my graph?"
+- "Is there anything that is too redundant in my graph?"
 Peer 1: Felt that including the Age category was redundant and could be removed.
 Peer 2: Agreed that Age was redundant and didn't add much value to the story.
 Peer 3: Thought Age was interesting and suggested it didn't hurt to keeping it in.
@@ -99,10 +99,19 @@ The one detail I wish I could change is the display of the main category headers
 
 Despite that minor formatting hiccup, moving away from stacked bars and blue branding completely transformed the graphic. The final design makes this a more accessible public health story.
 
+<img width="998" height="599" alt="Health" src="https://github.com/user-attachments/assets/29360772-b510-42ab-8757-290e4b541801" />
 
 ## References
-_List any references you used here._
+
+Andy Kriebel (Director). (2024, April 1). How ignorant are American men about antibiotics? [Video recording]. https://www.youtube.com/watch?v=VeSwnexUU4s
+
+Data Visualization Effectiveness Profile. (n.d.). Retrieved September 17, 2026, from https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
+
+kfflunnal. (2019, June 21). Data Note: Public Awareness Around Antibiotic Resistance. KFF. https://www.kff.org/other-health/data-note-public-awareness-antibiotic-resistance/
+
+Martin, F. &. (2015, April 3). Design and Redesign. Medium. https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_If you used AI to help troubleshoot why the clickable links to my pages were not working properly. 
 
