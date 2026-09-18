@@ -4,7 +4,7 @@
 When I started browsing MakeoverMonday for a dataset to analyze, I knew I wanted to choose a topic with real-world public health impact. I stumbled across a dataset sourced from a Kaiser Family Foundation (KFF) publication titled "Data Note: Public Awareness Around Antibiotic Resistance." Specifically, I focused on Figure 6, which presented survey responses to a fundamental health question: "Can antibiotics cure viral infections?" (Correct answer: No, cannot be cured).
 
 
-## Step one: the visualization
+## Visualization
 
 The original visualization was published by the Kaiser Family Foundation (KFF) as part of their public health awareness series on antibiotic resistance.
 
@@ -12,7 +12,7 @@ The original visualization was published by the Kaiser Family Foundation (KFF) a
 - Source: KFF Data Note: Public Awareness Around Antibiotic Resistance
 - Website url: https://www.kff.org/other-health/data-note-public-awareness-antibiotic-resistance/
 
-## Step two: The critique
+## The Critique
 Step Two: The Critique
 To evaluate Figure 6, I applied a comprehensive data visualization critique framework grounded in design principles from Stephen Few's Data Visualization Effectiveness Profile (a resource Storytelling with Data). I analyzed the original chart across five core dimensions: audience context, visual encoding, color semantics, typography, and data selection.
 
@@ -34,7 +34,7 @@ The primary audience for this graphic seems to be public health advocates, healt
 
 Moving into my redesign, I want to strip out the extra noise and focus directly on what drives health literacy! I moved on to watching Andy Kriebel's video using the same data. I found it interesting that the color scheme didn't seem to be much of a problem. I really liked the dual axis dot plot he created in the video, but after looking at it for a long time, it felt like it was not representative of the data. The circles don't "take up room" like a bar would to be more comparable in size. 
 
-## Step three: Sketch a solution
+## Sketch a solution
 
 When I began sketching a solution, I first stopped to really think about what I was looking to achieve. I decided to start in Datawrapper because it felt a lot less intimidating to dive into compared to more complex tools.
 
@@ -58,26 +58,36 @@ As I worked deeper into Datawrapper, however, I began hitting frustrations with 
 <img width="755" height="706" alt="DataWrapperDraft" src="https://github.com/user-attachments/assets/28e04bdd-b927-4b6c-9ab4-d2c084e81d4c" />
 Ultimately, I walked into class with a draft I wasn't 100% in love with, but I knew exactly which elements were falling short and what needed to change in the next iteration.
 
-## Step four: Test the solution
+## Test the solution
 
 - "Is there anything that is too redundant in my graph?"
-Peer 1: Felt that including the Age category was redundant and could be removed.
-Peer 2: Agreed that Age was redundant and didn't add much value to the story.
-Peer 3: Thought Age was interesting and suggested it didn't hurt to keeping it in.
+
+  Peer 1: Felt that including the Age category was redundant and could be removed.
+
+  Peer 2: Agreed that Age was redundant and didn't add much value to the story.
+
+  Peer 3: Thought Age was interesting and suggested it didn't hurt to keeping it in.
 
 - "What should the order of the colors/columns be?"
-Peer 1: Recommended ordering from Green (Correct) $\rightarrow$ Gray (Uncertain) $\rightarrow$ Red (Incorrect).
-Peer 2: Agreed that Green should come first, followed by Gray, then Red.
-Peer 3: Initially leaned toward putting Red first, but eventually agreed that leading with Green created a better flow.
+
+  Peer 1: Recommended ordering from Green (Correct) $\rightarrow$ Gray (Uncertain) $\rightarrow$ Red (Incorrect).
+
+  Peer 2: Agreed that Green should come first, followed by Gray, then Red.
+
+  Peer 3: Initially leaned toward putting Red first, but eventually agreed that leading with Green created a better flow.
 
 - "Is the title too poignant or overly focused on just one category?"
-Peer 1: Loved the title, calling it catchy, and suggested moving Education to the top of the chart to align with it.
-Peer 2: Agreed the title worked really well, and noted that the data labels should show percentage signs (%).
-Peer 3: Thought the title was strong and that the overall draft was in great shape.
+
+  Peer 1: Loved the title, calling it catchy, and suggested moving Education to the top of the chart to align with it.
+
+  Peer 2: Agreed the title worked really well, and noted that the data labels should show percentage signs (%).
+
+  Peer 3: Thought the title was strong and that the overall draft was in great shape.
+
 
 The first question about redundancy showed me something that I didn't see, so I had to go back and re-evaluate if age was something that was actually necessary in showing this graph. Between deciding to drop Age, needing to reorder the categories to match my title, and wanting  percentage signs on my bar labels, Datawrapper's limitations became overwhelming. Hearing this feedback put the nail in the coffin *wop wop wooOOoop* that I needed to give up on Datawrapper and move on to Tableau. 
 
-## Step five: Build the Solution
+## Build the Solution
 
 Before committing to the final small-multiples bar chart, I wanted to test all feedback from my critique session. One group member had recommended redoing the entire visualization into pie charts. I experimented with a pie chart layout in Tableau, but I quickly realized it made comparative analysis much worse. Comparing angles and slices across eight different demographic groups and three response categories created extreme visual clutter. It confirmed my intuition that horizontal bar charts anchored to a shared baseline were the best choice for fast, accurate reading.
 
