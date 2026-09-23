@@ -107,8 +107,23 @@ The primary visual deliverable is constructed in Tableau Desktop, to display ran
 
 I am looking into data sonification to represent these trade flows. I am not happy with the structural breakdown in Act 1 because I was having issues with using the data. A different approach(as discussed with Professor Goranson) maps individual  countries to a musical instrument, where the volume or intensity of each instrument corresponds directly to the export  exported over time. Sudden regulatory drop-offs or missing data points between 2016 and 2023 would create dramatic silences or abrupt instrumental cut-outs. This pairing of audio with visual graphics could help bring together my different audience type as well. 
 
+<img width="824" height="602" alt="Screenshot 2026-09-23 014413" src="https://github.com/user-attachments/assets/6894df71-ef0f-4b0d-b76b-c6e5855d801f" />
+Photo of the Cast of _Basura_ meeting the very people the story is inspired from. _This picture is from the the public instagram account @basuramusical. No photographer listed._
+
 ## References
-_List any references you used here._
+
+Basura: A New Musical (@basuramusical) • Instagram photos and videos. (2026, May 24). https://www.instagram.com/basuramusical/
+
+Benson, E., & Mortensen, S. (2021). _The Basel Convention: From Hazardous Waste to Plastic Pollution._ https://www.csis.org/analysis/basel-convention-hazardous-waste-plastic-pollution
+
+ipen. (2019, November 13). _Plastic Waste Poisons Indonesia’s Food Chain._ IPEN (International Pollutants Elimination Network). https://ipen.org/plastic-waste-poisons-indonesias-food-chain/
+
+_Plastic waste trade—By metric and rate._ (n.d.). Our World in Data. Retrieved September 23, 2026, from https://ourworldindata.org/grapher/plastic-waste-trade?utm_source=gemini
+
+_Share of plastic waste that is recycled, landfilled, incinerated and mismanaged._ (n.d.). Our World in Data. Retrieved September 23, 2026, from https://ourworldindata.org/grapher/share-plastic-fate?time=latest
+
+US EPA, O. (2017, October 2). _National Overview: Facts and Figures on Materials, Wastes and Recycling_ [Overviews and Factsheets]. https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials
+
 
 ## AI acknowledgements
-I used Gemini solely for technical troubleshooting in Tableau (configuring Data Interpreter for USITC header cleanup, setting up multi-panel fixed axis ranges, and designing dashboard layouts, yet it still didn't turn out right).
+I used Gemini for technical troubleshooting in Tableau (configuring Data Interpreter for USITC header cleanup, setting up multi-panel fixed axis ranges, and designing dashboard layouts, yet it still didn't turn out right).
