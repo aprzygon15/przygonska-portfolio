@@ -1,13 +1,8 @@
-[epa_material_generation_recycling_1960-2018_0.xlsx](https://github.com/user-attachments/files/32544898/epa_material_generation_recycling_1960-2018_0.xlsx)
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+ [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
-# Outline 
 _Note in Italics: Inspired by the musical Basura, this interactive story follows the lifecycle of plastic, demonstrating how art can expose US waste exports._
 
-### Introduction
+# Introduction
 _Tick._ 
 
 We twist open a plastic water bottle. 
@@ -28,10 +23,8 @@ By following this water bottle across the Pacific Ocean into small communities i
 
 The final movement of this project shifts from heavy systemic guilt toward accountability. Returning to the inspiration of true story of the Recycled Orchestra of Cateura which has been recently featured in _Basura_, the narrative highlights community members who reclaim landfill waste to craft functional musical instruments. Art is not presented as a simple cure for global pollution, but as a loud visual and pedestal that forces audiences to confront where their waste goes and demand change.
 
-
-
-
-### Act I: The Myth of the Recycling Bin
+# Outline
+## Act I: The Myth of the Recycling Bin
 _Tick._
 
 You twist open a plastic water bottle on your way to work. 
@@ -54,7 +47,7 @@ info from https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycl
 info from https://www.nationalgeographic.com/science/article/plastic-produced-recycling-waste-ocean-trash-debris-environment 
 
 
-### Act II: The Export 
+## Act II: The Export 
 _Tick._
 
 As you go about your day, your bottle isn't resting in a local recycling plant. It is sitting on a dock at a California seaport, crushed into a bale of synthetic scrap. It is stuffed into a shipping container, carrying your bottle on an ocean freighter across the Pacific.
@@ -74,7 +67,7 @@ info from https://www.nationalgeographic.com/science/article/plastic-produced-re
 info from https://www.csis.org/analysis/basel-convention-hazardous-waste-plastic-pollution  
 
 
-### Act III: Plastic Tofu 
+## Act III: Plastic Tofu 
 _Tick._
 
 Your bottle lands in Tropodo, a small village in East Java, Indonesia. It does not arrive at a state-of-the-art recycling facility. It spills out of an overcrowded scrap yard into a local neighborhood where locals run small-scale tofu production plants.
@@ -90,7 +83,7 @@ _This is most based from a video I saw when scrolling online. It was part of a d
 https://ipen.org/plastic-waste-poisons-indonesias-food-chain/ 
 
 
-### Act IV: Reclaiming Permanence 
+## Act IV: Reclaiming Permanence 
 
 _Tick._
 
@@ -102,14 +95,14 @@ Just like Tropodo, landfill communities like Cateura, Paraguay, residents refuse
 
 Seeing this transformation on stage in Atlanta offers a profound sense of hope, but that hope comes with a responsibility. __Let me make something clear.__ The the story of _Basura_ is not an excuse for wealthy nations to keep exporting toxic waste. Instead, these artistic works act are a call to action. They force us to slow down, look directly at where our water bottles land, and demand strict international trade enforcement and corporate accountability.
 
-
-# The data
+# Appendix
+## The data
 The primary dataset for this project is sourced directly from the United States International Trade Commission (USITC) DataWeb portal under Harmonized Tariff Schedule (HTS) Code 3915 ("Waste, Parings, and Scrap of Plastics"). This official trade database aggregates U.S. Census Bureau customs export manifests, tracking annual export metrics—including Free Alongside Ship (FAS) dollar value and physical quantity—by destination country across temporal milestones (2018, 2021, and 2024).
 
 The data is utilized to quantify and map the trans-Pacific shipping route of American plastic scrap. By explicitly filtering out border trade with Canada and Mexico, the dataset isolates trade flows heading to developing (Non-OECD) nations in South and Southeast Asia—such as India, Malaysia, Vietnam, and Indonesia, whose waste management infrastructure absorbs the our plastic footprint. This empirical base directly anchors the Act 2 narrative visualization before transitioning into local impact case studies. 
 Links are currently found directly under the create graphs. 
 
-# Method and medium
+## Method and medium
 The primary visual deliverable is constructed in Tableau Desktop, to display rank-ordered horizontal bar charts for U.S. plastic scrap exports across key reporting years (2018, 2021, and 2024). Color encoding (alert red/orange highlights) isolates developing recipient nations against neutral baselines.I am struggling to figure out how to make fixed axis ranges to depict shifts in overall export volume (2018 with 60mil jump to 2021 with 25mil).
 
 I am looking into data sonification to represent these trade flows. I am not happy with the structural breakdown in Act 1 because I was having issues with using the data. A different approach(as discussed with Professor Goranson) maps individual  countries to a musical instrument, where the volume or intensity of each instrument corresponds directly to the export  exported over time. Sudden regulatory drop-offs or missing data points between 2016 and 2023 would create dramatic silences or abrupt instrumental cut-outs. This pairing of audio with visual graphics could help bring together my different audience type as well. 
