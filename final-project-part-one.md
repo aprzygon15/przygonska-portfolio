@@ -47,10 +47,11 @@ That blue bin with three arrow is _usually_ a lie. The numbers tell us that our 
 _If that is the case, where is it all ending up?_ Grab your passport because we are going on a trip to follow this water bottle. 
 <img width="1384" height="824" alt="Screenshot 2026-09-23 000039" src="https://github.com/user-attachments/assets/3c4ad506-0c68-4af9-9df0-5632be96ee88" />
 
-Sources: 
-https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials 
 
-https://www.nationalgeographic.com/science/article/plastic-produced-recycling-waste-ocean-trash-debris-environment 
+Sources: 
+data from https://ourworldindata.org/grapher/share-plastic-fate?time=latest
+info from https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials 
+info from https://www.nationalgeographic.com/science/article/plastic-produced-recycling-waste-ocean-trash-debris-environment 
 
 
 ### Act II: The Export 
@@ -61,12 +62,13 @@ As you go about your day, your bottle isn't resting in a local recycling plant. 
 International trade records reveal a massive regulatory loophole under treaties like the Basel Convention. Basel Convention is a 1989 international treaty designed to control and reduce the movement of hazardous waste between nations, specifically stopping wealthy countries from dumping toxic waste in developing countries. According to csis.org, the Basel Convention did not clearly define plastic waste under the original classification of hazardous substances. However, the recent rules and amendment have limited the trading of certain plastic waste and scraps with non-parties. Unfortunately, United States is a non-party, therefore it has no obligation to follow any of its rules.
 
 Countries export millions of kilograms of plastic scrap overseas every month under the label of “recyclable material.” Ocean freighters dump the burden of plastics onto developing nations, whose local waste management infrastructure was never built to absorb the global North's plastic footprint.
+<img width="1074" height="817" alt="Screenshot 2026-09-23 011129" src="https://github.com/user-attachments/assets/9bb3b0ef-a4ce-456e-9340-95b81b7c3f89" />
+<img width="1452" height="830" alt="Screenshot 2026-09-23 005811" src="https://github.com/user-attachments/assets/951a10a2-2ddb-4572-b937-9f05d2542899" />
 
 Sources: 
-
-https://www.nationalgeographic.com/science/article/plastic-produced-recycling-waste-ocean-trash-debris-environment 
-
-https://www.csis.org/analysis/basel-convention-hazardous-waste-plastic-pollution  
+data from https://dataweb.usitc.gov/trade/search/TotExp/HTS
+info from https://www.nationalgeographic.com/science/article/plastic-produced-recycling-waste-ocean-trash-debris-environment 
+info from https://www.csis.org/analysis/basel-convention-hazardous-waste-plastic-pollution  
 
 
 ### Act III: Plastic Tofu 
@@ -82,8 +84,6 @@ The match is struck. Smoke pours out of low chimneys, filling the morning air wi
 
 Source: 
 https://ipen.org/plastic-waste-poisons-indonesias-food-chain/ 
-
-
 
 
 ### Act IV: Reclaiming Permanence 
