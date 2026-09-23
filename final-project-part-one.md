@@ -36,7 +36,7 @@ _Tick._
 
 You twist open a plastic water bottle on your way to work. 
 
-_Tick _
+_Tick._
 
 You toss it into a sleek blue recycling bin at the corner of the street. 
 
@@ -86,12 +86,13 @@ _Tick._
 The match is struck. Smoke pours out of low chimneys, filling the morning air with chemicals, heavy metals, and toxic ash. As the plastic melts, chemical byproducts settle everywhere. The local toxic dioxin levels in local food supplies are dozens of times above safe human health limits. The convenience of a single-use bottle in America becomes a toxic, daily health cost paid by a family thousands of miles away.
 
 Source: 
+_This is most based from a video I saw when scrolling online. It was part of a documentary which I cannot find the title of._
 https://ipen.org/plastic-waste-poisons-indonesias-food-chain/ 
 
 
 ### Act IV: Reclaiming Permanence 
 
-Tick.
+_Tick._
 
 The metronome is still ticking, but as the curtain rises on _Basura._ 
 
@@ -102,27 +103,19 @@ Just like Tropodo, landfill communities like Cateura, Paraguay, residents refuse
 Seeing this transformation on stage in Atlanta offers a profound sense of hope, but that hope comes with a responsibility. __Let me make something clear.__ The the story of _Basura_ is not an excuse for wealthy nations to keep exporting toxic waste. Instead, these artistic works act are a call to action. They force us to slow down, look directly at where our water bottles land, and demand strict international trade enforcement and corporate accountability.
 
 
-
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+The primary dataset for this project is sourced directly from the United States International Trade Commission (USITC) DataWeb portal under Harmonized Tariff Schedule (HTS) Code 3915 ("Waste, Parings, and Scrap of Plastics"). This official trade database aggregates U.S. Census Bureau customs export manifests, tracking annual export metrics—including Free Alongside Ship (FAS) dollar value and physical quantity—by destination country across temporal milestones (2018, 2021, and 2024).
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+The data is utilized to quantify and map the trans-Pacific shipping route of American plastic scrap. By explicitly filtering out border trade with Canada and Mexico, the dataset isolates trade flows heading to developing (Non-OECD) nations in South and Southeast Asia—such as India, Malaysia, Vietnam, and Indonesia, whose waste management infrastructure absorbs the our plastic footprint. This empirical base directly anchors the Act 2 narrative visualization before transitioning into local impact case studies. 
+Links are currently found directly under the create graphs. 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+The primary visual deliverable is constructed in Tableau Desktop, to display rank-ordered horizontal bar charts for U.S. plastic scrap exports across key reporting years (2018, 2021, and 2024). Color encoding (alert red/orange highlights) isolates developing recipient nations against neutral baselines.I am struggling to figure out how to make fixed axis ranges to depict shifts in overall export volume (2018 with 60mil jump to 2021 with 25mil).
 
-Text here...
+I am looking into data sonification to represent these trade flows. I am not happy with the structural breakdown in Act 1 because I was having issues with using the data. A different approach(as discussed with Professor Goranson) maps individual  countries to a musical instrument, where the volume or intensity of each instrument corresponds directly to the export  exported over time. Sudden regulatory drop-offs or missing data points between 2016 and 2023 would create dramatic silences or abrupt instrumental cut-outs. This pairing of audio with visual graphics could help bring together my different audience type as well. 
 
 ## References
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used Gemini solely for technical troubleshooting in Tableau (configuring Data Interpreter for USITC header cleanup, setting up multi-panel fixed axis ranges, and designing dashboard layouts, yet it still didn't turn out right).
