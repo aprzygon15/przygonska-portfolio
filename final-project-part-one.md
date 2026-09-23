@@ -1,3 +1,4 @@
+[epa_material_generation_recycling_1960-2018_0.xlsx](https://github.com/user-attachments/files/32544898/epa_material_generation_recycling_1960-2018_0.xlsx)
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
@@ -44,6 +45,7 @@ It drops with a light plastic thud, giving you a quiet, satisfying hit of civic 
 That blue bin with three arrow is _usually_ a lie. The numbers tell us that our assumptions as wrong. In the United States alone, we generate over 292 million tons of waste every year. According to the EPA, this is about 4.9 pounds per person, every single day. While paper and cardboard sometimes find a second life domestically, plastics are not ending up in American landfills. Of the tens of millions of tons of plastic we throw away, less than 9% ever gets reprocessed on American soil. According to the National Geographic, “Of the 8.3 billion metric tons that has been produced, 6.3 billion metric tons has become plastic waste. Of that, only nine percent has been recycled.” 
 
 _If that is the case, where is it all ending up?_ Grab your passport because we are going on a trip to follow this water bottle. 
+<img width="1384" height="824" alt="Screenshot 2026-09-23 000039" src="https://github.com/user-attachments/assets/3c4ad506-0c68-4af9-9df0-5632be96ee88" />
 
 Sources: 
 https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials 
