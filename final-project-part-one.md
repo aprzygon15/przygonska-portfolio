@@ -107,6 +107,10 @@ Just like Tropodo, landfill communities like Cateura, Paraguay, residents refuse
 
 Seeing this transformation on stage in Atlanta offers a profound sense of hope, but that hope comes with a responsibility. __Let me make something clear.__ The the story of _Basura_ is not an excuse for wealthy nations to keep exporting toxic waste. Instead, these artistic works act are a call to action. They force us to slow down, look directly at where our water bottles land, and demand strict international trade enforcement and corporate accountability.
 
+<img width="824" height="602" alt="Screenshot 2026-09-23 014413" src="https://github.com/user-attachments/assets/6894df71-ef0f-4b0d-b76b-c6e5855d801f" />
+Photo of the Cast of _Basura_ meeting the very people the story is inspired from.    
+_This picture is from the the public Instagram account @basuramusical. No photographer listed._
+
 # Appendix
 ## The data
 The primary dataset for this project is sourced directly from the United States International Trade Commission (USITC) DataWeb portal under Harmonized Tariff Schedule (HTS) Code 3915 ("Waste, Parings, and Scrap of Plastics"). This official trade database aggregates U.S. Census Bureau customs export manifests, tracking annual export metrics—including Free Alongside Ship (FAS) dollar value and physical quantity—by destination country across temporal milestones (2018, 2021, and 2024).
@@ -119,9 +123,7 @@ The primary visual deliverable is constructed in Tableau Desktop, to display ran
 
 I am looking into data sonification to represent these trade flows. I am not happy with the structural breakdown in Act 1 because I was having issues with using the data. A different approach(as discussed with Professor Goranson) maps individual  countries to a musical instrument, where the volume or intensity of each instrument corresponds directly to the export  exported over time. Sudden regulatory drop-offs or missing data points between 2016 and 2023 would create dramatic silences or abrupt instrumental cut-outs. This pairing of audio with visual graphics could help bring together my different audience type as well. 
 
-<img width="824" height="602" alt="Screenshot 2026-09-23 014413" src="https://github.com/user-attachments/assets/6894df71-ef0f-4b0d-b76b-c6e5855d801f" />
-Photo of the Cast of _Basura_ meeting the very people the story is inspired from.    
-_This picture is from the the public Instagram account @basuramusical. No photographer listed._
+
 
 ## References
 
