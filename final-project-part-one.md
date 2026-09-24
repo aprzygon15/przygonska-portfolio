@@ -148,7 +148,7 @@ Neilson, M. (2025, May 9). _Toxic tofu? How plastic waste from the west fuels fo
 
 Petrlik, Jindrich & Ismawati, Yuyun & Digangi, Joseph & Arisandi, Prigi & Bell, Lee & Beeler, Bjorn. (2019). Plastic waste flooding Indonesia leads to toxic chemical contamination of the food chain. 10.13140/RG.2.2.33213.03047. 
 
-_Plastic waste trade—By metric and rate._ (n.d.). Our World in Data. Retrieved September 23, 2026, from https://ourworldindata.org/grapher/plastic-waste-trade?utm_source=gemini
+_Plastic waste trade—By metric and rate._ (n.d.). Our World in Data. Retrieved September 23, 2026, from https://ourworldindata.org/grapher/plastic-waste-trade
 
 _Share of plastic waste that is recycled, landfilled, incinerated and mismanaged._ (n.d.). Our World in Data. Retrieved September 23, 2026, from https://ourworldindata.org/grapher/share-plastic-fate?time=latest
 
