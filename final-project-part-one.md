@@ -83,9 +83,11 @@ __As of 9/23, I cannot find that data figures I am looking for to show the chemi
 
 
 <img width="680" height="303" alt="Screenshot 2026-09-23 235854" src="https://github.com/user-attachments/assets/067d5491-0792-4b09-8938-d95f986a0a9d" />
+
 data from _PLASTIC WASTE FLOODING INDONESIA LEADS TO TOXIC CHEMICAL CONTAMINATION OF THE FOOD CHAIN_ by Petrlik, Jindrich & Ismawati, Yuyun & Digangi, Joseph & Arisandi, Prigi & Bell, Lee & Beeler, Bjorn. 
 
 <img width="614" height="363" alt="Screenshot 2026-09-23 234124" src="https://github.com/user-attachments/assets/8aa9c57a-63c5-4395-99a3-65ee6e1c1d71" />
+
 Tropodo, Indonesia Photograph: Michael Nielson
 
 
@@ -108,7 +110,8 @@ Just like Tropodo, landfill communities like Cateura, Paraguay, residents refuse
 Seeing this transformation on stage in Atlanta offers a profound sense of hope, but that hope comes with a responsibility. __Let me make something clear.__ The the story of _Basura_ is not an excuse for wealthy nations to keep exporting toxic waste. Instead, these artistic works act are a call to action. They force us to slow down, look directly at where our water bottles land, and demand strict international trade enforcement and corporate accountability.
 
 <img width="824" height="602" alt="Screenshot 2026-09-23 014413" src="https://github.com/user-attachments/assets/6894df71-ef0f-4b0d-b76b-c6e5855d801f" />
-Photo of the Cast of _Basura_ meeting the very people the story is inspired from.    
+
+Photo of the Cast of _Basura_ meeting the very people the story is inspired from.  
 _This picture is from the the public Instagram account @basuramusical. No photographer listed._
 
 # Appendix
