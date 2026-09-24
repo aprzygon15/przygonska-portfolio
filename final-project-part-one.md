@@ -81,10 +81,16 @@ The match is struck. Smoke pours out of low chimneys, filling the morning air wi
 
 __As of 9/23, I cannot find that data figures I am looking for to show the chemicals in the tofu__
 
+
+<img width="680" height="303" alt="Screenshot 2026-09-23 235854" src="https://github.com/user-attachments/assets/067d5491-0792-4b09-8938-d95f986a0a9d" />
+data from _PLASTIC WASTE FLOODING INDONESIA LEADS TO TOXIC CHEMICAL CONTAMINATION OF THE FOOD CHAIN_ by Petrlik, Jindrich & Ismawati, Yuyun & Digangi, Joseph & Arisandi, Prigi & Bell, Lee & Beeler, Bjorn. 
+
 <img width="614" height="363" alt="Screenshot 2026-09-23 234124" src="https://github.com/user-attachments/assets/8aa9c57a-63c5-4395-99a3-65ee6e1c1d71" />
 Tropodo, Indonesia Photograph: Michael Nielson
 
+
 Websites, see appendix for full citations: 
+data from Petrlik, Jindrich & Ismawati, Yuyun & Digangi, Joseph & Arisandi, Prigi & Bell, Lee & Beeler, Bjorn. (2019). Plastic waste flooding Indonesia leads to toxic chemical contamination of the food chain. 10.13140/RG.2.2.33213.03047. 
 concepts from https://ipen.org/plastic-waste-poisons-indonesias-food-chain/ 
 concepts from https://www.theguardian.com/global-development/2025/may/10/tofu-plastic-indonesia
 concepts from https://insideclimatenews.org/news/09012026/plastic-waste-fuel-endangers-millions-in-global-south/
@@ -135,6 +141,7 @@ Gross, B. L. (2026, January 9). _Burning Plastic Waste for Household Fuel Endang
 
 Neilson, M. (2025, May 9). _Toxic tofu? How plastic waste from the west fuels food factories in Indonesia._ The Guardian. https://www.theguardian.com/global-development/2025/may/10/tofu-plastic-indonesia
 
+Petrlik, Jindrich & Ismawati, Yuyun & Digangi, Joseph & Arisandi, Prigi & Bell, Lee & Beeler, Bjorn. (2019). Plastic waste flooding Indonesia leads to toxic chemical contamination of the food chain. 10.13140/RG.2.2.33213.03047. 
 
 _Plastic waste trade—By metric and rate._ (n.d.). Our World in Data. Retrieved September 23, 2026, from https://ourworldindata.org/grapher/plastic-waste-trade?utm_source=gemini
 
