@@ -146,7 +146,7 @@ Gross, B. L. (2026, January 9). _Burning Plastic Waste for Household Fuel Endang
 
 Neilson, M. (2025, May 9). _Toxic tofu? How plastic waste from the west fuels food factories in Indonesia._ The Guardian. https://www.theguardian.com/global-development/2025/may/10/tofu-plastic-indonesia
 
-Petrlik, Jindrich & Ismawati, Yuyun & Digangi, Joseph & Arisandi, Prigi & Bell, Lee & Beeler, Bjorn. (2019). Plastic waste flooding Indonesia leads to toxic chemical contamination of the food chain. 10.13140/RG.2.2.33213.03047. 
+Petrlik, Jindrich & Ismawati, Yuyun & Digangi, Joseph & Arisandi, Prigi & Bell, Lee & Beeler, Bjorn. (2019). _Plastic waste flooding Indonesia leads to toxic chemical contamination of the food chain._ 10.13140/RG.2.2.33213.03047. 
 
 _Plastic waste trade—By metric and rate._ (n.d.). Our World in Data. Retrieved September 23, 2026, from https://ourworldindata.org/grapher/plastic-waste-trade
 
@@ -156,4 +156,4 @@ US EPA, O. (2017, October 2). _National Overview: Facts and Figures on Materials
 
 
 ## AI acknowledgements
-I used Gemini for technical troubleshooting in Tableau (configuring Data Interpreter for USITC header cleanup, setting up multi-panel fixed axis ranges, and designing dashboard layouts, yet it still didn't turn out right).
+I used Gemini for technical troubleshooting in Tableau (configuring Data Interpreter for USITC header cleanup, setting up multi-panel fixed axis ranges, and designing dashboard layouts, yet it still didn't turn out right). Gemini was also used to understand the chemicals mentioned in _Plastic waste flooding Indonesia leads to toxic chemical contamination of the food chain._ 
