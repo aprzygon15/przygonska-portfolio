@@ -68,6 +68,8 @@ Ms. P: "Don't do sound, the ticking is good. Focus on fixing the squished static
 
 # Moodboards / personas
 Canva brainstorming below!
+
+
 <img width="794" height="649" alt="Screenshot 2026-09-29 220151" src="https://github.com/user-attachments/assets/cb2f3a09-26d6-4386-b949-d45f03f6168b" />
 <img width="847" height="626" alt="Screenshot 2026-09-29 221229" src="https://github.com/user-attachments/assets/2cc9c5bd-8351-4f1d-ad0b-1d8c2c639e33" />
 
