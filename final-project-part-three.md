@@ -16,6 +16,8 @@ For the overall color palette, I relied heavily on the color orange. It directly
 
 Finally, I designed the website layout so that the images tell a complete narrative on their own. I started with a mood board and picked photos in Shorthand that already had built-in annotations, which made them easy to cite while keeping the layout clean and professional. The images follow a step-by-step visual chain: a single water bottle getting tossed in a bin, loaded onto an export ship, sorted through by Indonesian villagers in massive landfills, and finally burned in a local tofu furnace. By setting up the photos and graphs this way, I wanted to make sure that even if a reader is just skimming the page, they can still walk away with a clear understanding of the whole story purely through visuals.
 
+After seeing some of my peers present in class, I have also decided to add donation buttons on the call to action page to make it look clean and sleek. 
+
 
 ## References
 > All references are already included detailed references on your Shorthand story. 
