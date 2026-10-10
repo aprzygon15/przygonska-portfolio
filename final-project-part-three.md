@@ -1,7 +1,8 @@
 [home page](./README.md) | [critique-by-design](./critique-by-design.md) | [final project I](./final-project-part-one.md) | [final project II](./final-project-part-two.md) | [final project III](./final-project-part-three.md)
 
 # The final data story
-https://carnegiemellon.shorthandstories.com/plastic-to-the-plate/index.html 
+Congratulations! You have made it through all the other pages in my GitHub page. We are now at the end of the semester, and I have reached the end of this class.
+[Click here to see Plastic to the Plate](https://carnegiemellon.shorthandstories.com/plastic-to-the-plate/index.html)
 
 ## The audience
 I identified my primary audience as theater-goers who are attending or have just seen Basura the Musical, as well as eco-conscious people who want to understand their personal environmental impact better. Early feedback and user research helped me realize that talking about all municipal trash in general was way too broad, so I narrowed my focus specifically to plastic waste to give the narrative a sharper, more actionable edge.
