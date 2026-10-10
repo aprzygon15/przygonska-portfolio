@@ -4,7 +4,7 @@
 # About me
 Hi! I’m Amanda Przygonska (she/her), a second-year MAM student focused on educational theater. Originally from Chicago and frequently based in Atlanta, I love creating spaces where kids can set down their screens, step into their confidence, and discover who they are through the performing arts. Beyond the classroom, my mission is to break down barriers so that communities who traditionally cannot afford theater still get to experience its magic.
 
-<img width="648" height="472" alt="Headshot Przygonska1 copy" src="https://github.com/user-attachments/assets/0858b840-44a9-4fd4-9e75-ca2b77d0b3ca" />
+<img width=50% alt="Headshot Przygonska1 copy" src="https://github.com/user-attachments/assets/079ca640-e2b1-406b-89fd-4e02a5965149" />
 
 
 # What I hope to learn
