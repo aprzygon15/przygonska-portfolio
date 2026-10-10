@@ -2,19 +2,20 @@
 
 # Wireframes / storyboards
 > 
-The story elements from Part 1 were copy and pasted from Github over to Shorthand!
+The story elements have been edited from Part 1. I copy and pasted everything from Github over to Shorthand!
+[Click here to see Plastic to the Plate](https://carnegiemellon.shorthandstories.com/plastic-to-the-plate/index.html)
 
 # User research 
 
 ## Target audience
-This project will be written to theater enthusiasts, musicians, environmental advocates, and it should honestly make a scratch at everyday consumers. The story aims to dismantle the myth of what happens to recycling by walking readers through this pipeline.
+This project will be written for theater enthusiasts, musicians, environmental advocates, and it should honestly make a scratch at everyday consumers. The story aims to dismantle the myth of what happens to recycling by walking readers through this pipeline.
 
 ## Interview script
 
 
 | Goal | Questions to Ask |
 |------|------------------|
-| Evaluate how artistic framing of the metronom help connect creative identity to their personal plastic footprint.     |   As a musician, when you see trash transformed into functional instruments in Basura, how does that shift your understanding of your footprint and habits?; How effectively does the transition from heavy trade export data to artistic advocacy empower you?               |
+| Evaluate how artistic framing of the metronome helps connect creative identity to their personal plastic footprint.     |   As a musician, when you see trash transformed into functional instruments in Basura, how does that shift your understanding of your footprint and habits?; How effectively does the transition from heavy trade export data to artistic advocacy empower you?               |
 | Assess whether the data visualizations and site layout are legible and compelling for a non-analytical artist.     |       Looking at the early chart drafts, do these graphs feel clear and readable, or do they feel too detached from the story's artistic heart? Would shifting the visual theme from dark to bright follow the story's emotional arc?           |
 | Determine which elements create the strongest emotional connection.     |  What photos make you feel most emotionally connected to the narrative? Would adding audio help that experience?          |
 
