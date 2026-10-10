@@ -1,4 +1,4 @@
-[home page](./README.md) | [data viz examples](./dataviz-examples.md) | [critique-by-design](./critique-by-design.md) | [final project I](./final-project-part-one.md) | [final project II](./final-project-part-two.md) | [final project III](./final-project-part-three.md)
+[home page](./README.md) | [critique-by-design](./critique-by-design.md) | [final project I](./final-project-part-one.md) | [final project II](./final-project-part-two.md) | [final project III](./final-project-part-three.md)
 
 # Rethinking Health Literacy: Redesigning KFF's Antibiotic Awareness Visualization
 When I started browsing MakeoverMonday for a dataset to analyze, I knew I wanted to choose a topic with real-world public health impact. I stumbled across a dataset sourced from a Kaiser Family Foundation (KFF) publication titled "Data Note: Public Awareness Around Antibiotic Resistance." Specifically, I focused on Figure 6, which presented survey responses to a fundamental health question: "Can antibiotics cure viral infections?" (Correct answer: No, cannot be cured).
