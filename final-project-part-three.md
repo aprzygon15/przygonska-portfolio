@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+[home page](./README.md) | [critique-by-design](./critique-by-design.md) | [final project I](./final-project-part-one.md) | [final project II](./final-project-part-two.md) | [final project III](./final-project-part-three.md)
 
 # The final data story
 https://carnegiemellon.shorthandstories.com/plastic-to-the-plate/index.html 
